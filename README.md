@@ -11,7 +11,7 @@ Pogo-pin type: "P50 - E2", 0.68mm body diameter, 0.9mm head diameter.
 
 PCB thickness: 0.6mm !
 
-
+http://blog.spitzenpfeil.org/wordpress/2013/07/05/tiny-pcbs-vs-large-isp-headers-pogo-pins-to-the-rescue/
 ---
 
 Before having PC-boards made, please make sure you know about your manufacturer's peculiarities!
