@@ -4,3 +4,7 @@
 *.kicad_pcb-bak
 $save*
 *~
+
+##eagle
+*.s#*
+*.b#*
